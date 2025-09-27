@@ -4,14 +4,25 @@ This repository contains the complete technical documentation, 3D models, and fi
 
 ### Watch the Display in Action!
 
-Click on the images below to watch videos of the display's two primary modes, complete with the iconic sound.
+Below are silent previews of the display's two primary modes. The iconic sound is a key feature, so click the title links to see and hear the full videos.
 
-| Word Mode | Clock Mode |
-| :---: | :---: |
-| [![Demonstration of the Split-Flap Display in Word Mode](assets/thumbnail.png)](https://github.com/jurajtodic/split-flap-display/raw/main/assets/word_mode_test.mp4) | [![Demonstration of the Split-Flap Display in Clock Mode](assets/thumbnail.png)](https://github.com/jurajtodic/split-flap-display/raw/main/assets/clock_mode_test.mp4) |
-| *Displaying a custom message sent via the web interface.* | *Displaying the current time, synchronized from the internet.* |
+---
 
-![Photo of the completed Split-Flap Display](assets/final-build-photo.jpg)
+### [**Word Mode Demo (Click for Video with Sound)**](https://github.com/jurajtodic/split-flap-display/raw/main/assets/word_mode_test.mp4)
+
+*Displaying a custom message sent from the web interface. The video shows the recalibration process followed by the display of the word "HELLO WORLD".*
+
+![Demonstration of the Split-Flap Display in Word Mode](https://github.com/your-username/your-repo/raw/main/assets/word-mode-preview.gif)
+
+---
+
+### [**Clock Mode Demo (Click for Video with Sound)**](https://github.com/jurajtodic/split-flap-display/raw/main/assets/clock_mode_test.mp4)
+
+*The display functioning as an internet-synchronized clock, updating every second to show the time in HH:MM:SS format.*
+
+![Demonstration of the Split-Flap Display in Clock Mode](https://github.com/your-username/your-repo/raw/main/assets/clock-mode-preview.gif)
+
+---
 
 ## Project Overview
 
