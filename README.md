@@ -4,8 +4,14 @@ This repository contains the complete technical documentation, 3D models, and fi
 
 ### Watch the Display in Action!
 
-*(Here you can embed a GIF or link to a video of your project)*
-`[Link to your demonstration video]`
+Click on the images below to watch videos of the display's two primary modes, complete with the iconic sound.
+
+| Word Mode | Clock Mode |
+| :---: | :---: |
+| [![Demonstration of the Split-Flap Display in Word Mode](assets/thumbnail.png)](https://github.com/jurajtodic/split-flap-display/raw/main/assets/word_mode_test.mp4) | [![Demonstration of the Split-Flap Display in Clock Mode](assets/thumbnail.png)](https://github.com/jurajtodic/split-flap-display/raw/main/assets/clock_mode_test.mp4) |
+| *Displaying a custom message sent via the web interface.* | *Displaying the current time, synchronized from the internet.* |
+
+![Photo of the completed Split-Flap Display](assets/final-build-photo.jpg)
 
 ## Project Overview
 
