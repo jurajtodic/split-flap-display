@@ -12,7 +12,7 @@ Below are silent previews of the display's two primary modes. The iconic sound i
 
 *Displaying a custom message sent from the web interface. The video shows the recalibration process followed by the display of the word "HELLO WORLD".*
 
-![Demonstration of the Split-Flap Display in Word Mode](https://github.com/your-username/your-repo/raw/main/assets/word-mode-preview.gif)
+![Demonstration of the Split-Flap Display in Word Mode](https://github.com/jurajtodic/split-flap-display/raw/main/assets/word_mode_test.gif)
 
 ---
 
@@ -20,7 +20,7 @@ Below are silent previews of the display's two primary modes. The iconic sound i
 
 *The display functioning as an internet-synchronized clock, updating every second to show the time in HH:MM:SS format.*
 
-![Demonstration of the Split-Flap Display in Clock Mode](https://github.com/your-username/your-repo/raw/main/assets/clock-mode-preview.gif)
+![Demonstration of the Split-Flap Display in Clock Mode](https://github.com/jurajtodic/split-flap-display/raw/main/assets/clock_mode.gif)
 
 ---
 
